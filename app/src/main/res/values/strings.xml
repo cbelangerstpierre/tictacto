@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tictacto</string>
+    <string name="Reset">Reset</string>
+    <string name="pts2">Pts : 0</string>
+    <string name="pts1">Pts : 0</string>
+    <string name="gamer2">Gamer2</string>
+    <string name="gamer1">Gamer1</string>
+</resources>
